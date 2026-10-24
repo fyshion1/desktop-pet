@@ -1,0 +1,21 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+data/
+artifacts/
+.env
+
+# Model files and runtime SDKs are supplied locally by the user.
+models/
+assets/
+vendor/
+*.vrm
+*.moc3
+*.model3.json
+*.fbx
+models.json
+*.glb
+*.gltf
+*.motion3.json
+*.exp3.json
